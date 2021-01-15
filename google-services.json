@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482492439899",
+    "project_id": "saasdasd-3b1d4",
+    "storage_bucket": "saasdasd-3b1d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482492439899:android:de0f26096e229b73158e7e",
+        "android_client_info": {
+          "package_name": "tr.edu.mu.ceng.mad.mynotesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482492439899-vkg8b2mqlv17g51o1oi93pb7qf14cj62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzplgqUjiDdz-X0Q1f-YzAP7Xw6XqztA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482492439899-vkg8b2mqlv17g51o1oi93pb7qf14cj62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
